@@ -9,7 +9,7 @@ using OpenCV.
 
 
 
-## How It Works?
+## How Does It Work?
 In the "source" csv file, I listed any of the math pdf files
  from "HighQ.com" and looped over the list using Pandas.
 For each file, I converted the file type from PDF to JPEG and detected the 
